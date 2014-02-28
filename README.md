@@ -2,6 +2,9 @@
 
 ### :Commands
 
+### Visual mode
+* :"+y - yank to "+" register to put block in system clipboard
+
 #### Buffers
 * :bufdo e! - re-read all buffers from disk (e.g. after "git pull")
 
