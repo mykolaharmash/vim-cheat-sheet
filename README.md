@@ -7,6 +7,7 @@
 
 #### Buffers
 * :bufdo e! - re-read all buffers from disk (e.g. after "git pull")
+* :"_d - delete line to "black hole" buffer to note pollute registers
 
 #### Plugins
 * :CtrlPClearAllCaches - clear cache of CtrlP plugin, if we have new files to search
