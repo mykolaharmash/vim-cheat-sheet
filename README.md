@@ -17,3 +17,9 @@
 ### Custom Key Maps
 
 * nmap ,d :b#<bar>bd#<CR> - switch to previous buffer && close current
+
+* * *
+
+### Usefull configs
+
+* autocmd BufLeave,FocusLost * silent! wall - autosave buffer on focus lost
