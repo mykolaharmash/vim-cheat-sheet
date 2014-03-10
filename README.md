@@ -9,6 +9,9 @@
 * :bufdo e! - re-read all buffers from disk (e.g. after "git pull")
 * :"_d - delete line to "black hole" buffer to note pollute registers
 
+#### Tabs
+* :tabm i - move tab to i-position (count from 0)
+
 #### Plugins
 * :CtrlPClearAllCaches - clear cache of CtrlP plugin, if we have new files to search
 
