@@ -17,6 +17,12 @@
 
 * * *
 
+### Shortcuts
+
+* Ctrl + l - refresh screen
+
+* * *
+
 ### Custom Key Maps
 
 * nmap ,d :b#<bar>bd#<CR> - switch to previous buffer && close current
