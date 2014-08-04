@@ -20,6 +20,8 @@
 ### Shortcuts
 
 * Ctrl + l - refresh screen
+* 0D - delete all text in line
+* ^D - delete all text in line starting from first non-blank character
 
 * * *
 
